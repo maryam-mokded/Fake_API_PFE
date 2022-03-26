@@ -4,8 +4,9 @@
         { "id": 1, "nom": "Mokded", "prenom": "Maryam", "Email": "MokdedMaryam@gmail.com", "MotDePasse": "1234", "telephone": 53740917 },
         { "id": 2, "nom": "Ben Jemaa", "prenom": "Hanin", "Email": "BenJemaaHanin@gmail.com", "MotDePasse": "1234", "telephone": 25258147 },
         { "id": 3, "nom": "Mejri", "prenom": "Salem", "Email": "MejriSalem@gmail.com", "MotDePasse": "1234", "telephone": 5896258 },
-        { "id": 4, "nom": "Ben Aissa", "prenom": "Amira", "Email": "AmiraBenAissa@gmail.com", "MotDePasse": "1234", "telephone": 25147258 }
- 
-      ]
+        { "id": 4, "nom": "Ben Aissa", "prenom": "Amira", "Email": "AmiraBenAissa@gmail.com", "MotDePasse": "1234", "telephone": 25147258 },
+        { "id": 5, "nom": "Salmi", "prenom": "Mohamed", "Email": "SalmiMohamed@gmail.com", "MotDePasse": "1234", "telephone": 24158369 },
+        { "id": 6, "nom": "Ben Ali", "prenom": "Salim", "Email": "SalimBenAmi@gmail.com", "MotDePasse": "1234", "telephone": 58987456 }
+ ]
 
   }
