@@ -1,6 +1,6 @@
 {
   "Adherents": [
-        { "id": 1, "nom": "Mokded", "prenom": "Maryam" },
+             { "id": 1, "nom": "Mokded", "prenom": "Maryam" , "Email": "MokdedMaryam@gmail.com" ,"MotDePasse": "1234", "telephone": 53740917 },
         { "id": 2, "nom": "Mokded", "prenom": "Maryam" },
         { "id": 3, "nom": "Mokded", "prenom": "Maryam" },
         { "id": 4, "nom": "Mokded", "prenom": "Maryam" },
