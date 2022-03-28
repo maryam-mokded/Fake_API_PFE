@@ -17,18 +17,26 @@
   ],
   "ListeAdherents": [
         { "id": 1, "nom": "Miled", "prenom": "brahem", "Email": "brahemmiled@gmail.com", "Association": "AIESEC", "telephone": 52159357 , "Adresse": "Bizerte", "CIN": 11547857 , "Date_de_naissance":"2022-02-13" },
-        { "id": 2, "nom": "Wasila", "prenom": "zaghbib", "Email": "wasilazaghbib@gmail.com", "Association": "CONECT", "telephone": 54785487 , "Adresse": "Tunis", "CIN": 11754834 , "Date_de_naissance":"17/02/2002"},
-        { "id": 3, "nom": "Monia", "prenom": "nammane", "Email": "monia@gmail.com", "Association": "MCNCOM", "telephone": 27514785 , "Adresse": "Metline", "CIN": 114574269 , "Date_de_naissance":"17/02/2001"},
-        { "id": 4, "nom": "Maram", "prenom": "bourguiba", "Email": "bourguiba@gmail.com", "Association": "JAMIATY", "telephone": 22145854 , "Adresse": "Sousse", "CIN": 11455715 , "Date_de_naissance":"02/01/1999"},
-        { "id": 5, "nom": "Salma", "prenom": "ouali", "Email": "salma@gmail.com", "Association": "4C", "telephone": 55422154 , "Adresse": "Bizerte", "CIN": 11454854 , "Date_de_naissance":"17/02/1999" },
-        { "id": 6, "nom": "Hatem", "prenom": "nouira", "Email": "hatem@gmail.com", "Association": "JCI", "telephone": 24117074 , "Adresse": "Ras Jbal", "CIN": 11214575 , "Date_de_naissance":"25/02/2003" }
+        { "id": 2, "nom": "Wasila", "prenom": "zaghbib", "Email": "wasilazaghbib@gmail.com", "Association": "CONECT", "telephone": 54785487 , "Adresse": "Tunis", "CIN": 11754834 , "Date_de_naissance":"17-02-2002"},
+        { "id": 3, "nom": "Monia", "prenom": "nammane", "Email": "monia@gmail.com", "Association": "MCNCOM", "telephone": 27514785 , "Adresse": "Metline", "CIN": 11457469 , "Date_de_naissance":"17-02-2001"},
+        { "id": 4, "nom": "Maram", "prenom": "bourguiba", "Email": "bourguiba@gmail.com", "Association": "JAMIATY", "telephone": 22145854 , "Adresse": "Sousse", "CIN": 11455715 , "Date_de_naissance":"02-01-1999"},
+        { "id": 5, "nom": "Salma", "prenom": "ouali", "Email": "salma@gmail.com", "Association": "4C", "telephone": 55422154 , "Adresse": "Bizerte", "CIN": 11454854 , "Date_de_naissance":"17-02-1999" },
+        { "id": 6, "nom": "Hatem", "prenom": "nouira", "Email": "hatem@gmail.com", "Association": "JCI", "telephone": 24117074 , "Adresse": "Ras Jbal", "CIN": 11214575 , "Date_de_naissance":"25-02-2003" }
   ],
  "ArchiveAdherents": [
-        { "id": 1, "nom": "Malek", "prenom": "brahem", "Email": "brahemmalek@gmail.com", "Association": "AIESEC", "telephone": 24159357 ,"Date_d_archivage":"17/02/2020" },
-        { "id": 2, "nom": "Wiem", "prenom": "zaghbib", "Email": "wiemzaghbib@gmail.com", "Association": "CONECT", "telephone": 54785487 ,"Date_d_archivage":"26/03/2021" },
-        { "id": 3, "nom": "salsabil", "prenom": "said", "Email": "Salsabil@gmail.com", "Association": "MCNCOM", "telephone": 25414785 ,"Date_d_archivage":"14/11/2019" },
-        { "id": 4, "nom": "Achraf", "prenom": "bourguiba", "Email": "bourguiba@gmail.com", "Association": "JAMIATY", "telephone": 72145854 ,"Date_d_archivage":"22/10/2021"  },
-        { "id": 5, "nom": "Salma", "prenom": "ouali", "Email": "salma@gmail.com", "Association": "4C", "telephone": 55482154 ,"Date_d_archivage":"07/01/2018"  },
-        { "id": 6, "nom": "Ahmed", "prenom": "chakroun", "Email": "ahmed@gmail.com", "Association": "JCI", "telephone": 24107074 ,"Date_d_archivage":"05/08/2021"  }
+        { "id": 1, "nom": "Malek", "prenom": "brahem", "Email": "brahemmalek@gmail.com", "Association": "AIESEC", "telephone": 24159357 ,"Date_d_archivage":"17-02-2020" },
+        { "id": 2, "nom": "Wiem", "prenom": "zaghbib", "Email": "wiemzaghbib@gmail.com", "Association": "CONECT", "telephone": 54785487 ,"Date_d_archivage":"26-03-2021" },
+        { "id": 3, "nom": "salsabil", "prenom": "said", "Email": "Salsabil@gmail.com", "Association": "MCNCOM", "telephone": 25414785 ,"Date_d_archivage":"14-11-2019" },
+        { "id": 4, "nom": "Achraf", "prenom": "bourguiba", "Email": "bourguiba@gmail.com", "Association": "JAMIATY", "telephone": 72145854 ,"Date_d_archivage":"22-10-2021"  },
+        { "id": 5, "nom": "Salma", "prenom": "ouali", "Email": "salma@gmail.com", "Association": "4C", "telephone": 55482154 ,"Date_d_archivage":"07-01-2018"  },
+        { "id": 6, "nom": "Ahmed", "prenom": "chakroun", "Email": "ahmed@gmail.com", "Association": "JCI", "telephone": 24107074 ,"Date_d_archivage":"05-08-2021"  }
+  ],
+ "ListePersonnelles": [
+        { "id": 1, "nom": "Hassan", "prenom": "selmi", "role":"Admin OGN" , "CIN":11242408 , "Email": "h.selmi@gmail.com", "Statu":"Actif" , "Association": "CONECT", "telephone": 24159357 ,"Date_d_embauche":"17-02-2020" },
+        { "id": 2, "nom": "Slim", "prenom": "ben mostfa", "role":"Trésorier" , "CIN":11784578 , "Email": "slim@gmail.com", "Statu":"démissionner" ,  "Association": "CONECT", "telephone": 54785487 ,"Date_d_embauche":"09-03-2022" },
+        { "id": 3, "nom": "Arbi", "prenom": "ladhib", "role":"Salarier" , "CIN":11172458 , "Email": "ladhib@gmail.com", "Statu":"Actif" , "Association": "Maram", "telephone": 25414785 ,"Date_d_embauche":"14-11-2020" },
+        { "id": 4, "nom": "Mohamed", "prenom": "bourguiba", "role":"Salarier" , "CIN":11785478 , "Email": "bourguiba.m@gmail.com", "Statu":"démissionner" , "Association": "JAMIATY", "telephone": 72145854 ,"Date_d_embauche":"13-03-2022"  },
+        { "id": 5, "nom": "Salim", "prenom": "ouali", "role":"Trésorier" , "CIN":11447547 , "Email": "salim@gmail.com", "Statu":"Inactif" , "Association": "AIESEC", "telephone": 55482154 ,"Date_d_embauche":"07-02-2022"  },
+        { "id": 6, "nom": "Ahmed", "prenom": "ben saber","role":"Admin OGN" , "CIN":11324548 , "Email": "bensaber@gmail.com", "Statu":"Actif" ,  "Association": "Jamiaty", "telephone": 24107074 ,"Date_d_embauche":"11-01-2021"  }
   ]
 }
